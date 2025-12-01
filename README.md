@@ -1,4 +1,4 @@
-🧬 #Generador de DotPlot – Bioinformática
+🧬 Generador de DotPlot – Bioinformática
 
 Proyecto realizado para la materia Bioinformática, cuyo objetivo es desarrollar un generador de DotPlots para comparar secuencias biológicas (proteínas o ADN) mediante visualización gráfica.
 
