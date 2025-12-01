@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Proyecto_Final_Bioinform\u00E1tica.Controllers.DotPlotController",
+    "Method": "Dotplot",
+    "RelativePath": "api/DotPlot/dotplot",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file1",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "file2",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "window",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

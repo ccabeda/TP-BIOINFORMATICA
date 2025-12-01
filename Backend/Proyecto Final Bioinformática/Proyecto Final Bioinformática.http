@@ -1,0 +1,6 @@
+@Proyecto_Final_Bioinformática_HostAddress = http://localhost:5170
+
+GET {{Proyecto_Final_Bioinformática_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

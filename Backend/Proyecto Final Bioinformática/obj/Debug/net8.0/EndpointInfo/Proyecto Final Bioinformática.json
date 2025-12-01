@@ -1,0 +1,59 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Proyecto Final Bioinformática",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/DotPlot/dotplot": {
+      "post": {
+        "tags": [
+          "DotPlot"
+        ],
+        "parameters": [
+          {
+            "name": "window",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "file1": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "file2": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "file1": {
+                  "style": "form"
+                },
+                "file2": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

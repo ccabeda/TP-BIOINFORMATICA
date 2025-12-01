@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|c:\\users\\cabed\\onedrive\\desktop\\final bio\\final bioinform\u00E1tica\\proyecto final bioinform\u00E1tica\\backend\\proyecto final bioinform\u00E1tica\\service\\servicedotplotresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|solutionrelative:proyecto final bioinform\u00E1tica\\service\\servicedotplotresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|c:\\users\\cabed\\onedrive\\desktop\\final bio\\final bioinform\u00E1tica\\proyecto final bioinform\u00E1tica\\backend\\proyecto final bioinform\u00E1tica\\models\\dotplotresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|solutionrelative:proyecto final bioinform\u00E1tica\\models\\dotplotresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|c:\\users\\cabed\\onedrive\\desktop\\final bio\\final bioinform\u00E1tica\\proyecto final bioinform\u00E1tica\\backend\\proyecto final bioinform\u00E1tica\\controllers\\dotplotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|solutionrelative:proyecto final bioinform\u00E1tica\\controllers\\dotplotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|c:\\users\\cabed\\onedrive\\desktop\\final bio\\final bioinform\u00E1tica\\proyecto final bioinform\u00E1tica\\backend\\proyecto final bioinform\u00E1tica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF376CFA-8741-435A-B1FA-7E43396734E9}|Proyecto Final Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica.csproj|solutionrelative:proyecto final bioinform\u00E1tica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto Final Bioinform\u00E1tica\\Program.cs",
+              "ToolTip": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Program.cs",
+              "RelativeToolTip": "Proyecto Final Bioinform\u00E1tica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:56:51.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DotPlotController.cs",
+              "DocumentMoniker": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Controllers\\DotPlotController.cs",
+              "RelativeDocumentMoniker": "Proyecto Final Bioinform\u00E1tica\\Controllers\\DotPlotController.cs",
+              "ToolTip": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Controllers\\DotPlotController.cs",
+              "RelativeToolTip": "Proyecto Final Bioinform\u00E1tica\\Controllers\\DotPlotController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:17:27.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceDotPlotResult.cs",
+              "DocumentMoniker": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Service\\ServiceDotPlotResult.cs",
+              "RelativeDocumentMoniker": "Proyecto Final Bioinform\u00E1tica\\Service\\ServiceDotPlotResult.cs",
+              "ToolTip": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Service\\ServiceDotPlotResult.cs",
+              "RelativeToolTip": "Proyecto Final Bioinform\u00E1tica\\Service\\ServiceDotPlotResult.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowHoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:08:18.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DotPlotResult.cs",
+              "DocumentMoniker": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Models\\DotPlotResult.cs",
+              "RelativeDocumentMoniker": "Proyecto Final Bioinform\u00E1tica\\Models\\DotPlotResult.cs",
+              "ToolTip": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinform\u00E1tica\\Proyecto Final Bioinform\u00E1tica\\Backend\\Proyecto Final Bioinform\u00E1tica\\Models\\DotPlotResult.cs",
+              "RelativeToolTip": "Proyecto Final Bioinform\u00E1tica\\Models\\DotPlotResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:06:48.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

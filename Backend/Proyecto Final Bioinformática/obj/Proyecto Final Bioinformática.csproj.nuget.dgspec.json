@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
+        "projectName": "Proyecto Final Bioinformática",
+        "projectPath": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
+        "packagesPath": "C:\\Users\\cabed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cabed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "openmedstack.biosharp.calculations": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "openmedstack.biosharp.io": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "openmedstack.biosharp.model": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

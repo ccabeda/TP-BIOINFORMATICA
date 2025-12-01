@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Generador de DotPlot</title>   
+<!-- ícono del navegador -->
+<link rel="icon" type="image/png" href="favicon.ico">
+<!-- bootstrap para estilos rápidos -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- archivo de estilos -->
+<link rel="stylesheet" href="estilos.css">
+
+<style>
+    /* fondo claro y estilo general del cuerpo */
+    body {
+        background: #f3fff3;
+        font-family: Arial, sans-serif;
+    }
+
+    /* donde está todo el contenido */
+    .container-box {
+        max-width: 900px;
+        margin: 30px auto;
+        padding: 25px;
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 0 12px #b4e6b4;
+    }
+
+    /* espacio arriba del gráfico */
+    #gráfico {
+        margin-top: 20px;
+    }
+</style>
+</head>
+
+<body>
+
+<!-- botón del modo oscuro -->
+<div id="darkmode-toggle"></div>
+
+<div class="container-box">
+    <h2 class="text-success mb-4">Generador de DotPlot</h2>
+
+    <!-- selección de archivo 1 -->
+    <div class="mb-3">
+        <label class="form-label fw-bold">Archivo 1 (FASTA o PDB):</label>
+        <input type="file" id="file1" class="form-control">
+    </div>
+
+    <!-- selección de archivo 2 -->
+    <div class="mb-3">
+        <label class="form-label fw-bold">Archivo 2 (FASTA o PDB):</label>
+        <input type="file" id="file2" class="form-control">
+    </div>
+
+    <!-- advertencia sobre NO cambiar el nombre de los archivos -->
+    <div class="alert alert-warning p-2 mt-2" style="font-size:14px;">
+        ⚠️ No cambies el nombre original de los archivos.<br>
+        Los nombres deben contener el ID de la proteína (ej: <b>1AON.fasta</b>, <b>6TAP.pdb</b>).
+    </div>
+
+    <!-- tamaño de ventana para el dotplot -->
+    <div class="mb-3">
+        <label class="form-label fw-bold">Tamaño ventana (por defecto es 3):</label>
+        <input type="number" id="window" class="form-control" value="3">
+    </div>
+
+    <!-- botón que ejecuta todo el proceso -->
+    <button onclick="sendFiles()" class="btn btn-success w-100">Generar DotPlot</button>
+
+    <!-- mensajes de estado (procesando, error, resultado, etc.) -->
+    <div class="mt-3 text-success fw-bold" id="status"></div>
+
+    <!-- gráfico de Plotly -->
+    <div id="grafico"></div>
+
+    <!-- botones para abrir info PDB -->
+    <div id="infoButtons" class="mt-3"></div>
+</div>
+
+<!-- librería Plotly para generar el gráfico -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- script principal -->
+<script src="inicio.js"></script>
+
+</body>
+</html>
