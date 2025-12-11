@@ -33,7 +33,7 @@ namespace Proyecto_Final_Bioinformática.Service
             string id = lines[0].Substring(1).Trim();
 
             // Buscar dónde empieza la siguiente entrada '>'
-            int nextHeaderIndex = lines.FindIndex(1, l => l.StartsWith(">"));
+            int nextHeaderIndex = lines.FindIndex(1, l => l.StartsWith(">")); 
 
             IEnumerable<string> seqLines;
 
@@ -75,7 +75,6 @@ namespace Proyecto_Final_Bioinformática.Service
                 return (id, one, type); //retorno
             }
             //  Leer ATOM si no hay SEQRES. Sugerencia IA
-
             var atomLines = text.Split('\n')
                                 .Where(l => l.StartsWith("ATOM"))
                                 .ToList();

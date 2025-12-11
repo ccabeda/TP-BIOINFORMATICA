@@ -16,10 +16,6 @@ function validarArchivos(f1, f2) {
     if (!esFasta2 && !esPdb2) return "El archivo 2 tiene un formato incorrecto. Solo FASTA o PDB.";
 
     //formatos diferentes
-    const tipo1 = esFasta1 ? "fasta" : "pdb";
-    const tipo2 = esFasta2 ? "fasta" : "pdb";
-    if (tipo1 !== tipo2)
-        return "Los archivos deben ser del MISMO tipo (ambos FASTA o ambos PDB).";
     return null; // OK
 }
 

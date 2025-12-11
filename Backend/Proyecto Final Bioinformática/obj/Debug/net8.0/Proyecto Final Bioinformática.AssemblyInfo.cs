@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto Final Bioinformática")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14e05a8c6074d3adbfa492d43ffd79e8f34413ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto Final Bioinformática")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto Final Bioinformática")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

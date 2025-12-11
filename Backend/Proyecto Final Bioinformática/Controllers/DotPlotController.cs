@@ -15,9 +15,6 @@ namespace Proyecto_Final_Bioinformática.Controllers
                 var s1 = await ServiceDotPlotResult.ReadSequenceAsync(file1);
                 var s2 = await ServiceDotPlotResult.ReadSequenceAsync(file2);
 
-                if (s1.type != s2.type)
-                    return BadRequest(new { message = "No se puede comparar FASTA con PDB." }); //para no comparar archivos diferentes
-
                 if (string.Equals(s1.type, "pdb", StringComparison.OrdinalIgnoreCase)) //nombre en el caso de pdb
                 {
                     s1.id = Path.GetFileNameWithoutExtension(file1.FileName);

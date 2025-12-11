@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj": {}
+    "C:\\Users\\cabed\\OneDrive\\Desktop\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj": {
+    "C:\\Users\\cabed\\OneDrive\\Desktop\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
+        "projectUniqueName": "C:\\Users\\cabed\\OneDrive\\Desktop\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
         "projectName": "Proyecto Final Bioinformática",
-        "projectPath": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
+        "projectPath": "C:\\Users\\cabed\\OneDrive\\Desktop\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
         "packagesPath": "C:\\Users\\cabed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\obj\\",
+        "outputPath": "C:\\Users\\cabed\\OneDrive\\Desktop\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -76,3 +76,43 @@ C:\Users\cabed\OneDrive\Desktop\FINAL BIO\FInal Bioinformática\Proyecto Final B
 C:\Users\cabed\OneDrive\Desktop\FINAL BIO\FInal Bioinformática\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.pdb
 C:\Users\cabed\OneDrive\Desktop\FINAL BIO\FInal Bioinformática\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.genruntimeconfig.cache
 C:\Users\cabed\OneDrive\Desktop\FINAL BIO\FInal Bioinformática\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\ref\Proyecto Final Bioinformática.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\appsettings.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Proyecto Final Bioinformática.staticwebassets.endpoints.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Proyecto Final Bioinformática.exe
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Proyecto Final Bioinformática.deps.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Proyecto Final Bioinformática.runtimeconfig.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Proyecto Final Bioinformática.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Proyecto Final Bioinformática.pdb
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\openmedstack.biosharp.calculations.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\openmedstack.biosharp.io.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\openmedstack.biosharp.model.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.csproj.AssemblyReference.cache
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.AssemblyInfoInputs.cache
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.AssemblyInfo.cs
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.csproj.CoreCompileInputs.cache
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.sourcelink.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\scopedcss\bundle\Proyecto Final Bioinformática.styles.css
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto.546A3C90.Up2Date
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\refint\Proyecto Final Bioinformática.dll
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.pdb
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\Proyecto Final Bioinformática.genruntimeconfig.cache
+C:\Users\cabed\OneDrive\Desktop\Proyecto Final Bioinformática\Backend\Proyecto Final Bioinformática\obj\Debug\net8.0\ref\Proyecto Final Bioinformática.dll

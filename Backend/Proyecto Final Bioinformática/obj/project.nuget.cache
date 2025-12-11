@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xk7TPTcctJU=",
+  "dgSpecHash": "rBAOGTPURKg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cabed\\OneDrive\\Desktop\\FINAL BIO\\FInal Bioinformática\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
+  "projectFilePath": "C:\\Users\\cabed\\OneDrive\\Desktop\\Proyecto Final Bioinformática\\Backend\\Proyecto Final Bioinformática\\Proyecto Final Bioinformática.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cabed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\cabed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
